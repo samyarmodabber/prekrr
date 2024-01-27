@@ -10,7 +10,7 @@ setuptools.setup(
     description="Preconditioner Kernel Ridge Regression",
     # long_description="Solve linear system by Preconditioner Kernel Ridge Regression",
 
-    keywords='example, pypi, package',
+    keywords='KRR, Preconditioner, Conjugate Gradient',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/samyarmodabber/prekrr',
